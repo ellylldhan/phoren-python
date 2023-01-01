@@ -3,5 +3,6 @@
 *.JPG
 *.jpg
 *.png
-*.PNGarchives/
+*.PNG
+archives/
 *.log

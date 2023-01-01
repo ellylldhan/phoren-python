@@ -2,23 +2,21 @@
 
 Renomme photo selon leur metadata - version PYTHON
 
-Voir `./phoren.py --usage` pour plus d'infos.
-
 [TOC]
 
 ## Pré-requis
 
 - Python > v2.7
-- Module PIL
+- Module Image (ou PIL)
 - Module exifread
 
 ### Installation
 
 **Installation de Python (Windows)**
 
-- Sur Windows, ouvrir le Windows Store
-- Chercher 'python'
-- Installer Python > v2.7
+1. Sur Windows, ouvrir le Windows Store
+2. Chercher 'python'
+3. Installer Python > v2.7
 
 **Installation de Python (Debian)**
 
@@ -28,8 +26,8 @@ $ sudo apt install python3.10
 
 **Installation des Modules Python**
 
-- Sur Windows/Linux, ouvrir un terminal
-- Installer les modules via `pip`
+1. Sur Windows/Linux, ouvrir un terminal
+2. Installer les modules via `pip`
 
 ```sh
 $ pip install Image
@@ -60,5 +58,5 @@ python phoren.py /chemin/vers/dossier $extension_sans_point
 
 ```sh
 phoren.py . JPG
-phoren.py
+phoren.py /tmp/mesPhotos/ jpeg
 ```
