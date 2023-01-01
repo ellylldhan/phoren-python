@@ -142,10 +142,11 @@ MYPATH = os.path.dirname(os.path.abspath(__file__))
 # TAGS_DIM_LENGTH = ['ExifImageLength', 'ImageLength', 'EXIF ExifImageLength', 'Image ImageLength', 'Exif Image Height']
 # TAGS_DIM_WIDTH = ['ExifImageWidth', 'ImageWidth', 'EXIF ExifImageWidth', 'Image ImageWidth', 'Exif Image Width']
 TAGS_ORIENTATION = ['Image Orientation']
-TAGS_DATE = ['Media Create Date ', 'Create Date', 'DateTimeOriginal', 'Image DateTime']
-TAGS_MODELE = ['Camera Model Name', 'Image Model', 'Model']
-TAGS_DIM_LENGTH = ['ImageLength', 'Image ImageLength']
-TAGS_DIM_WIDTH = ['ImageWidth', 'Image ImageWidth']
+TAGS_DATE = ['EXIF DateTimeOriginal']
+TAGS_MODELE = ['Image Model']
+TAGS_DIM_LENGTH = ['EXIF ExifImageLength']
+TAGS_DIM_WIDTH = ['EXIF ExifImageWidth']
+
 
 CLEAN_LIST = [
     ('-WA0', '_WA0'),
@@ -294,28 +295,16 @@ def get_filelist(root, patterns='*', single_level=False, yield_folders=False):
 
 
 def get_info_from_exif(exifdata, list_tags):
+    """Recupère des metadatas correspondant à des tags donnés."""
+    logging.info("... Récupération des métadata ayant les tags donnés.")
+
     resultat = []
     for tag in list_tags:
         if tag in exifdata.keys():
-            resultat.append(exifdata[tag])
+            # resultat.append(exifdata[tag])
+            resultat.append(exifdata[tag].__str__())
 
     return resultat
-
-    # def method_1(fichier):
-    # newfname = 'pouet'
-    # orientation = get_all_exif(fichier, SEARCH_ROTATION)
-
-    # return newfname, orientation
-    # try:
-    #     # newfname = get_exif_date_pil(fichier)
-    #     newfname = 'pouet'
-    # except:
-    #     newfname = fichier
-    # try:
-    #     orientation = get_all_exif(fichier, SEARCH_ROTATION)
-    # except:
-    #     orientation = 1
-    # return newfname, orientation
 
 
 def traitement(flist):
