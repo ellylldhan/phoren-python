@@ -510,7 +510,7 @@ def main():
 	
 	if os.name == 'posix':
 		msg = ['#! /usr/bin/sh']
-		msg = ['echo "Rangement des logs et des scripts ..."']
+		msg+= ['echo "Rangement des logs et des scripts ..."']
 		msg+= ['mkdir logs 2>/dev/null']
 		msg+= ['mv -v *.log logs 2>/dev/null']
 		msg+= ['mv -v *script*.py logs 2>/dev/null']

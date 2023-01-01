@@ -14,19 +14,19 @@ Voir `./phoren.py --usage` pour plus d'infos.
 
 ### Installation
 
-**Python**
+**Installation de Python (Windows)**
 
-- Sur Windows, ouvrir un terminal
-- executer `python` pour ouvrir une fenêtre Windows Store
+- Sur Windows, ouvrir le Windows Store
+- Chercher 'python'
 - Installer Python > v2.7
 
-- Sur Linux
+**Installation de Python (Debian)**
 
 ```sh
 $ sudo apt install python3.10
 ```
 
-**Modules Python**
+**Installation des Modules Python**
 
 - Sur Windows/Linux, ouvrir un terminal
 - Installer les modules via `pip`
@@ -36,9 +36,12 @@ $ pip install Image
 $ pip install exifread
 ```
 
+- **Image** permet de modifier la rotation d'une image (module **PIL**).
+- **exifread** permet de lire les métadata d'une image.
+
 **Permissions Linux**
 
-Facultatif. 
+Facultatif. Pour attribuer les droits d'exécution à l'utilisateur courant :
 
 ```sh
 $ chmod u+x phoren.py

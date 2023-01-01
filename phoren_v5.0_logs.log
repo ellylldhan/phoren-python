@@ -1,0 +1,774 @@
+--------------------------------------------------------------------------------
+----------------------------------------
+------------------------------------------------
+2023-01-01 15:42:51,119 | INFO | ... Entrée dans le main
+2023-01-01 15:42:51,119 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:42:51,119 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:42:51,119 | INFO | ... Definition de l'extension.
+2023-01-01 15:43:32,826 | INFO |
+------------------------------------------------
+2023-01-01 15:43:32,826 | INFO | ... Entrée dans le main
+2023-01-01 15:43:32,826 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:43:32,827 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:43:32,827 | INFO | ... Definition de l'extension.
+2023-01-01 15:46:35,421 | INFO | ------------------------------------------------
+2023-01-01 15:46:35,421 | INFO | ... Entrée dans le main
+2023-01-01 15:46:35,421 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:46:35,421 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:46:35,421 | INFO | ... Definition de l'extension.
+2023-01-01 15:50:02,008 | INFO | ------------------------------------------------
+2023-01-01 15:50:02,008 | INFO | ... Entrée dans le main
+2023-01-01 15:50:02,009 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:50:02,009 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:50:02,009 | INFO | ... Definition de l'extension.
+2023-01-01 15:50:02,009 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:50:02,009 | INFO | ... Appel à la création du fichier de nettoyage
+2023-01-01 15:50:02,009 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:50:02,009 | INFO | ... Ecriture script nettoyage
+2023-01-01 15:50:02,009 | INFO | ... Fin du main
+2023-01-01 15:50:39,809 | INFO | ------------------------------------------------
+2023-01-01 15:50:39,810 | INFO | ... Entrée dans le main
+2023-01-01 15:50:39,810 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:50:39,810 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:50:39,810 | INFO | ... Definition de l'extension.
+2023-01-01 15:50:39,810 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:50:39,810 | INFO | ... Appel à la création du fichier de nettoyage
+2023-01-01 15:50:39,810 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:50:39,810 | INFO | ... Fin du main
+2023-01-01 15:51:04,170 | INFO | ------------------------------------------------
+2023-01-01 15:51:04,170 | INFO | ... Entrée dans le main
+2023-01-01 15:51:04,170 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:51:04,170 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:51:04,171 | INFO | ... Definition de l'extension.
+2023-01-01 15:51:04,171 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:51:04,171 | INFO | ... Appel à la création du fichier de nettoyage
+2023-01-01 15:51:04,171 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:51:04,171 | INFO | ... Fin du main
+2023-01-01 15:51:05,752 | INFO | ------------------------------------------------
+2023-01-01 15:51:05,752 | INFO | ... Entrée dans le main
+2023-01-01 15:51:05,752 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:51:05,752 | INFO | ... L'arg en position 2 n'est pas donné (extension).
+2023-01-01 15:52:19,708 | INFO | ------------------------------------------------
+2023-01-01 15:52:19,708 | INFO | ... Entrée dans le main
+2023-01-01 15:52:19,708 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:52:19,709 | INFO | ... L'arg en position 2 n'est pas donné (extension).
+2023-01-01 15:53:39,507 | INFO | ------------------------------------------------
+2023-01-01 15:53:39,507 | INFO | ... Entrée dans le main
+2023-01-01 15:53:39,507 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:53:39,507 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:53:39,507 | INFO | ... Definition de l'extension.
+2023-01-01 15:53:39,507 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:53:39,507 | INFO | ... Appel à la création du fichier de nettoyage
+2023-01-01 15:53:39,507 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:53:39,507 | INFO | ... Fin du main
+2023-01-01 15:54:36,377 | INFO | ------------------------------------------------
+2023-01-01 15:54:36,377 | INFO | ... Entrée dans le main
+2023-01-01 15:54:36,377 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:54:36,377 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:54:36,377 | INFO | ... Definition de l'extension.
+2023-01-01 15:54:36,377 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:54:36,377 | INFO | ... Appel à la création du fichier de nettoyage
+2023-01-01 15:54:36,377 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:54:36,377 | INFO | ... Fin du main
+2023-01-01 15:55:24,809 | INFO | ------------------------------------------------
+2023-01-01 15:55:24,810 | INFO | ... Entrée dans le main
+2023-01-01 15:55:24,810 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:55:24,810 | ERROR | ... L'arg en position 2 n'est pas donné (extension).
+2023-01-01 15:56:14,644 | INFO | ------------------------------------------------
+2023-01-01 15:56:14,644 | INFO | ... Entrée dans le main
+2023-01-01 15:56:14,644 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:56:14,644 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:56:14,644 | INFO | ... Definition de l'extension.
+2023-01-01 15:56:14,644 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:56:14,645 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:56:14,645 | INFO | ... Fin du main
+2023-01-01 15:57:30,859 | INFO | ------------------------------------------------
+2023-01-01 15:57:30,859 | INFO | ... Entrée dans le main
+2023-01-01 15:57:30,859 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 15:57:30,859 | INFO | ... Definition du chemin de recherche.
+2023-01-01 15:57:30,859 | INFO | ... Definition de l'extension.
+2023-01-01 15:57:30,859 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 15:57:30,860 | INFO | ... Préparation script nettoyage posix
+2023-01-01 15:57:30,860 | INFO | ... Fin du main
+2023-01-01 16:06:07,411 | INFO | ------------------------------------------------
+2023-01-01 16:06:07,411 | INFO | ... Entrée dans le main
+2023-01-01 16:06:07,411 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:06:07,411 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:06:07,411 | INFO | ... Définition de l'extension.
+2023-01-01 16:06:07,411 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:06:07,411 | INFO | ... Traitement des images.
+2023-01-01 16:06:07,411 | INFO | ... Préparation script nettoyage posix
+2023-01-01 16:06:07,411 | INFO | ... Fin du main
+2023-01-01 16:06:11,086 | INFO | ------------------------------------------------
+2023-01-01 16:06:11,087 | INFO | ... Entrée dans le main
+2023-01-01 16:06:11,087 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:06:11,087 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:06:11,087 | INFO | ... Définition de l'extension.
+2023-01-01 16:06:11,087 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:06:11,087 | INFO | ... Traitement des images.
+2023-01-01 16:06:11,087 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:06:11,087 | INFO | ... Traitement de l'image 1.JPG
+2023-01-01 16:06:11,087 | INFO | ... Traitement de l'image 2.JPG
+2023-01-01 16:06:11,087 | INFO | ... Traitement de l'image 3.JPG
+2023-01-01 16:06:11,087 | INFO | ... Traitement de l'image 4.JPG
+2023-01-01 16:06:11,087 | INFO | ... Préparation script nettoyage posix
+2023-01-01 16:06:11,087 | INFO | ... Fin du main
+2023-01-01 16:06:37,675 | INFO | ------------------------------------------------
+2023-01-01 16:06:37,675 | INFO | ... Entrée dans le main
+2023-01-01 16:06:37,675 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:06:37,675 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:06:37,675 | INFO | ... Définition de l'extension.
+2023-01-01 16:06:37,675 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:06:37,675 | INFO | ... Traitement des images.
+2023-01-01 16:06:37,675 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:06:37,675 | INFO | ... Traitement de l'image 1.JPG
+2023-01-01 16:06:37,675 | INFO | ... Traitement de l'image 2.JPG
+2023-01-01 16:06:37,676 | INFO | ... Traitement de l'image 3.JPG
+2023-01-01 16:06:37,676 | INFO | ... Traitement de l'image 4.JPG
+2023-01-01 16:06:37,676 | INFO | ... Préparation script nettoyage posix
+2023-01-01 16:06:37,676 | INFO | ... Fin du main
+2023-01-01 16:30:22,329 | INFO | ------------------------------------------------
+2023-01-01 16:30:22,329 | INFO | ... Entrée dans le main
+2023-01-01 16:30:22,329 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:30:22,329 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:30:22,329 | INFO | ... Définition de l'extension.
+2023-01-01 16:30:22,329 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:30:22,329 | INFO | ... Traitement des images.
+2023-01-01 16:30:22,329 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:30:22,330 | INFO | ... Traitement de l'image 1.JPG
+2023-01-01 16:30:22,330 | INFO | ... Traitement de l'image 2.JPG
+2023-01-01 16:30:22,330 | INFO | ... Traitement de l'image 3.JPG
+2023-01-01 16:30:22,330 | INFO | ... Traitement de l'image 4.JPG
+2023-01-01 16:30:22,330 | INFO | ... Préparation script nettoyage posix
+2023-01-01 16:30:22,330 | INFO | ... Fin du main
+2023-01-01 16:31:54,953 | INFO | ------------------------------------------------
+2023-01-01 16:31:54,954 | INFO | ... Entrée dans le main
+2023-01-01 16:31:54,954 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:31:54,954 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:31:54,954 | INFO | ... Définition de l'extension.
+2023-01-01 16:31:54,954 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:31:54,954 | INFO | ... Traitement des images.
+2023-01-01 16:31:54,954 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:31:54,954 | INFO | ... Lecture des métadata (all exif)
+2023-01-01 16:31:54,954 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:31:54,954 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:31:54,954 | DEBUG |  Segment base 0x2
+2023-01-01 16:31:54,954 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:31:54,954 | DEBUG |   Length: 0x4A 0xB3
+2023-01-01 16:31:54,954 | DEBUG |   Code: b'Exif'
+2023-01-01 16:31:54,954 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:31:54,954 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:31:54,954 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:31:54,954 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:31:54,954 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:31:54,954 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:31:54,955 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:22 @ 213
+2023-01-01 16:31:54,955 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:31:54,955 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:31:54,955 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:31:54,955 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:31:54,955 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 22] @ 785
+2023-01-01 16:31:54,955 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:31:54,955 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:31:54,955 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:31:54,955 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:31:54,955 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:31:54,955 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:31:54,955 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:31:54,955 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:31:54,955 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18189 @ 854
+2023-01-01 16:31:54,955 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:31:54,955 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:31:54,955 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:31:54,955 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:31:54,955 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:31:54,955 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:31:54,955 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:31:54,955 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:31:54,955 | DEBUG |  ExposureTime: (0x829A) Ratio=1/169 @ 616
+2023-01-01 16:31:54,956 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:31:54,956 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=370401 @ 624
+2023-01-01 16:31:54,956 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=370401 @ 631
+2023-01-01 16:31:54,956 | DEBUG |  SubSecTime: (0x9290) ASCII=370401 @ 638
+2023-01-01 16:31:54,956 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:31:54,956 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:31:54,956 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:31:54,956 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:31:54,956 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:31:54,956 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:31:54,956 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:31:54,956 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:31:54,956 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:31:54,956 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:22 @ 653
+2023-01-01 16:31:54,956 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:31:54,956 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:31:54,956 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:31:54,956 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:22 @ 681
+2023-01-01 16:31:54,956 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=209/50 @ 701
+2023-01-01 16:31:54,956 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:31:54,956 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:31:54,956 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:31:54,956 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:31:54,956 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:31:54,957 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:31:54,957 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7397/1000 @ 717
+2023-01-01 16:31:54,957 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:31:54,957 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:33:43,851 | INFO | ------------------------------------------------
+2023-01-01 16:33:43,851 | INFO | ... Entrée dans le main
+2023-01-01 16:33:43,851 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:33:43,851 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:33:43,851 | INFO | ... Définition de l'extension.
+2023-01-01 16:33:43,851 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:33:43,852 | INFO | ... Traitement des images.
+2023-01-01 16:33:43,852 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:33:43,852 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:33:43,852 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:33:43,852 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:33:43,852 | DEBUG |  Segment base 0x2
+2023-01-01 16:33:43,852 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:33:43,852 | DEBUG |   Length: 0x4A 0xB3
+2023-01-01 16:33:43,852 | DEBUG |   Code: b'Exif'
+2023-01-01 16:33:43,852 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:33:43,852 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:33:43,852 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:33:43,852 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:33:43,852 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:33:43,852 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:33:43,852 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:22 @ 213
+2023-01-01 16:33:43,852 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:33:43,852 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:33:43,852 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:33:43,852 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:33:43,852 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 22] @ 785
+2023-01-01 16:33:43,853 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:33:43,853 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:33:43,853 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:33:43,853 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:33:43,853 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:33:43,853 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:33:43,853 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:33:43,853 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:33:43,853 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18189 @ 854
+2023-01-01 16:33:43,853 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:33:43,853 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:33:43,853 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:33:43,853 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:33:43,853 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:33:43,853 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:33:43,853 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:33:43,853 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:33:43,853 | DEBUG |  ExposureTime: (0x829A) Ratio=1/169 @ 616
+2023-01-01 16:33:43,853 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:33:43,853 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=370401 @ 624
+2023-01-01 16:33:43,853 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=370401 @ 631
+2023-01-01 16:33:43,853 | DEBUG |  SubSecTime: (0x9290) ASCII=370401 @ 638
+2023-01-01 16:33:43,853 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:33:43,853 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:33:43,853 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:33:43,853 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:33:43,853 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:33:43,854 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:33:43,854 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:33:43,854 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:33:43,854 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:33:43,854 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:22 @ 653
+2023-01-01 16:33:43,854 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:33:43,854 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:33:43,854 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:33:43,854 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:22 @ 681
+2023-01-01 16:33:43,854 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=209/50 @ 701
+2023-01-01 16:33:43,854 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:33:43,854 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:33:43,854 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:33:43,854 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:33:43,854 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:33:43,854 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:33:43,854 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7397/1000 @ 717
+2023-01-01 16:33:43,854 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:33:43,854 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:38:01,515 | INFO | ------------------------------------------------
+2023-01-01 16:38:01,515 | INFO | ... Entrée dans le main
+2023-01-01 16:38:01,515 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:38:01,515 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:38:01,515 | INFO | ... Définition de l'extension.
+2023-01-01 16:38:01,515 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:38:01,515 | INFO | ... Traitement des images.
+2023-01-01 16:38:01,516 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:38:01,516 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:38:01,516 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:38:01,516 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:38:01,516 | DEBUG |  Segment base 0x2
+2023-01-01 16:38:01,516 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:38:01,516 | DEBUG |   Length: 0x4A 0xB3
+2023-01-01 16:38:01,516 | DEBUG |   Code: b'Exif'
+2023-01-01 16:38:01,516 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:38:01,516 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:38:01,516 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:38:01,516 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:38:01,516 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:38:01,516 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:38:01,516 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:22 @ 213
+2023-01-01 16:38:01,516 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:38:01,516 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:38:01,516 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:38:01,516 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:38:01,516 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 22] @ 785
+2023-01-01 16:38:01,516 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:38:01,516 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:38:01,516 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:38:01,516 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:38:01,517 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:38:01,517 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:38:01,517 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:38:01,517 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:38:01,517 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18189 @ 854
+2023-01-01 16:38:01,517 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:38:01,517 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:38:01,517 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:38:01,517 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:38:01,517 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:38:01,517 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:38:01,517 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:38:01,517 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:38:01,517 | DEBUG |  ExposureTime: (0x829A) Ratio=1/169 @ 616
+2023-01-01 16:38:01,517 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:38:01,517 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=370401 @ 624
+2023-01-01 16:38:01,517 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=370401 @ 631
+2023-01-01 16:38:01,517 | DEBUG |  SubSecTime: (0x9290) ASCII=370401 @ 638
+2023-01-01 16:38:01,517 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:38:01,517 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:38:01,517 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:38:01,517 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:38:01,517 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:38:01,517 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:38:01,517 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:38:01,518 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:38:01,518 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:38:01,518 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:22 @ 653
+2023-01-01 16:38:01,518 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:38:01,518 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:38:01,518 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:38:01,518 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:22 @ 681
+2023-01-01 16:38:01,518 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=209/50 @ 701
+2023-01-01 16:38:01,518 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:38:01,518 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:38:01,518 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:38:01,518 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:38:01,518 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:38:01,518 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:38:01,518 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7397/1000 @ 717
+2023-01-01 16:38:01,518 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:38:01,518 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:38:31,794 | INFO | ------------------------------------------------
+2023-01-01 16:38:31,794 | INFO | ... Entrée dans le main
+2023-01-01 16:38:31,794 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:38:31,794 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:38:31,794 | INFO | ... Définition de l'extension.
+2023-01-01 16:38:31,794 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:38:31,794 | INFO | ... Traitement des images.
+2023-01-01 16:38:31,794 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:38:31,795 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:38:31,795 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:38:31,795 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:38:31,795 | DEBUG |  Segment base 0x2
+2023-01-01 16:38:31,795 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:38:31,795 | DEBUG |   Length: 0x4A 0xB3
+2023-01-01 16:38:31,795 | DEBUG |   Code: b'Exif'
+2023-01-01 16:38:31,795 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:38:31,795 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:38:31,795 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:38:31,795 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:38:31,795 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:38:31,795 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:38:31,795 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:22 @ 213
+2023-01-01 16:38:31,795 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:38:31,795 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:38:31,795 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:38:31,795 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:38:31,795 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 22] @ 785
+2023-01-01 16:38:31,795 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:38:31,795 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:38:31,795 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:38:31,795 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:38:31,795 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:38:31,796 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:38:31,796 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:38:31,796 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:38:31,796 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18189 @ 854
+2023-01-01 16:38:31,796 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:38:31,796 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:38:31,796 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:38:31,796 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:38:31,796 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:38:31,796 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:38:31,796 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:38:31,796 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:38:31,796 | DEBUG |  ExposureTime: (0x829A) Ratio=1/169 @ 616
+2023-01-01 16:38:31,796 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:38:31,796 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=370401 @ 624
+2023-01-01 16:38:31,796 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=370401 @ 631
+2023-01-01 16:38:31,796 | DEBUG |  SubSecTime: (0x9290) ASCII=370401 @ 638
+2023-01-01 16:38:31,796 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:38:31,796 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:38:31,796 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:38:31,796 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:38:31,796 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:38:31,796 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:38:31,796 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:38:31,796 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:38:31,797 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:38:31,797 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:22 @ 653
+2023-01-01 16:38:31,797 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:38:31,797 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:38:31,797 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:38:31,797 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:22 @ 681
+2023-01-01 16:38:31,797 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=209/50 @ 701
+2023-01-01 16:38:31,797 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:38:31,797 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:38:31,797 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:38:31,797 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:38:31,797 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:38:31,797 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:38:31,797 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7397/1000 @ 717
+2023-01-01 16:38:31,797 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:38:31,797 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:44:47,341 | INFO | ------------------------------------------------
+2023-01-01 16:44:47,341 | INFO | ... Entrée dans le main
+2023-01-01 16:44:47,341 | INFO | ... Check arguments passés à PHOREN
+2023-01-01 16:44:47,341 | INFO | ... Définition du chemin de recherche.
+2023-01-01 16:44:47,341 | INFO | ... Définition de l'extension.
+2023-01-01 16:44:47,341 | INFO | ... Récupération des fichiers/dossiers
+2023-01-01 16:44:47,341 | INFO | ... Traitement des images.
+2023-01-01 16:44:47,341 | INFO | ... Traitement de l'image 0.JPG
+2023-01-01 16:44:47,341 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:44:47,341 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:44:47,341 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:44:47,341 | DEBUG |  Segment base 0x2
+2023-01-01 16:44:47,342 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:44:47,342 | DEBUG |   Length: 0x4A 0xB3
+2023-01-01 16:44:47,342 | DEBUG |   Code: b'Exif'
+2023-01-01 16:44:47,342 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:44:47,342 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:44:47,342 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:44:47,342 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:44:47,342 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:44:47,342 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:44:47,342 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:22 @ 213
+2023-01-01 16:44:47,342 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:44:47,342 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:44:47,342 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:44:47,342 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:44:47,342 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 22] @ 785
+2023-01-01 16:44:47,342 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:44:47,342 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:44:47,342 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:44:47,342 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:44:47,342 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:44:47,342 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:44:47,342 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:44:47,342 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:44:47,342 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18189 @ 854
+2023-01-01 16:44:47,342 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:44:47,342 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:44:47,343 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:44:47,343 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:44:47,343 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:44:47,343 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:44:47,343 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:44:47,343 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:44:47,343 | DEBUG |  ExposureTime: (0x829A) Ratio=1/169 @ 616
+2023-01-01 16:44:47,343 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:44:47,343 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=370401 @ 624
+2023-01-01 16:44:47,343 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=370401 @ 631
+2023-01-01 16:44:47,343 | DEBUG |  SubSecTime: (0x9290) ASCII=370401 @ 638
+2023-01-01 16:44:47,343 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:44:47,343 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:44:47,343 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:44:47,343 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:44:47,343 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:44:47,343 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:44:47,343 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:44:47,343 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:44:47,343 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:44:47,343 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:22 @ 653
+2023-01-01 16:44:47,343 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:44:47,343 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:44:47,343 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:44:47,343 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:22 @ 681
+2023-01-01 16:44:47,343 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=209/50 @ 701
+2023-01-01 16:44:47,344 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:44:47,344 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:44:47,344 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:44:47,344 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:44:47,344 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:44:47,344 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:44:47,344 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7397/1000 @ 717
+2023-01-01 16:44:47,344 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:44:47,344 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:44:47,344 | INFO | ... Traitement de l'image 1.JPG
+2023-01-01 16:44:47,344 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:44:47,344 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:44:47,344 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:44:47,344 | DEBUG |  Segment base 0x2
+2023-01-01 16:44:47,344 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:44:47,344 | DEBUG |   Length: 0x4D 0x7E
+2023-01-01 16:44:47,344 | DEBUG |   Code: b'Exif'
+2023-01-01 16:44:47,344 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:44:47,344 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:44:47,344 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:44:47,344 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:44:47,344 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 157
+2023-01-01 16:44:47,344 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:44:47,344 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:38:34 @ 213
+2023-01-01 16:44:47,344 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 66
+2023-01-01 16:44:47,344 | DEBUG |  ExifOffset: (0x8769) Long=254 @ 78
+2023-01-01 16:44:47,345 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 90
+2023-01-01 16:44:47,345 | DEBUG | GPS SubIFD at offset 755:
+2023-01-01 16:44:47,345 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 38, 34] @ 785
+2023-01-01 16:44:47,345 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 809
+2023-01-01 16:44:47,345 | DEBUG |  GPSInfo: (0x8825) Long=755 @ 102
+2023-01-01 16:44:47,345 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 233
+2023-01-01 16:44:47,345 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 241
+2023-01-01 16:44:47,345 | DEBUG |  Make: (0x010F) ASCII=asus @ 249
+2023-01-01 16:44:47,345 | DEBUG | IFD 1 (Thumbnail) at offset 820:
+2023-01-01 16:44:47,345 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=926 @ 830
+2023-01-01 16:44:47,345 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 842
+2023-01-01 16:44:47,345 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18904 @ 854
+2023-01-01 16:44:47,345 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 866
+2023-01-01 16:44:47,345 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 878
+2023-01-01 16:44:47,345 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 910
+2023-01-01 16:44:47,345 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 918
+2023-01-01 16:44:47,345 | DEBUG | Exif SubIFD at offset 254:
+2023-01-01 16:44:47,345 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 264
+2023-01-01 16:44:47,345 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 276
+2023-01-01 16:44:47,345 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 608
+2023-01-01 16:44:47,345 | DEBUG |  ExposureTime: (0x829A) Ratio=1/142 @ 616
+2023-01-01 16:44:47,345 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 312
+2023-01-01 16:44:47,345 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=732009 @ 624
+2023-01-01 16:44:47,345 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=732009 @ 631
+2023-01-01 16:44:47,345 | DEBUG |  SubSecTime: (0x9290) ASCII=732009 @ 638
+2023-01-01 16:44:47,345 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 645
+2023-01-01 16:44:47,346 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 372
+2023-01-01 16:44:47,346 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 384
+2023-01-01 16:44:47,346 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 396
+2023-01-01 16:44:47,346 | DEBUG | Interoperability SubIFD at offset 725:
+2023-01-01 16:44:47,346 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 735
+2023-01-01 16:44:47,346 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 747
+2023-01-01 16:44:47,346 | DEBUG |  InteroperabilityOffset: (0xA005) Long=725 @ 408
+2023-01-01 16:44:47,346 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 420
+2023-01-01 16:44:47,346 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:38:34 @ 653
+2023-01-01 16:44:47,346 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 673
+2023-01-01 16:44:47,346 | DEBUG |  ExifImageLength: (0xA003) Long=3120 @ 456
+2023-01-01 16:44:47,346 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 468
+2023-01-01 16:44:47,346 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:38:34 @ 681
+2023-01-01 16:44:47,346 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=197/50 @ 701
+2023-01-01 16:44:47,346 | DEBUG |  ExifImageWidth: (0xA002) Long=4160 @ 504
+2023-01-01 16:44:47,346 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 516
+2023-01-01 16:44:47,346 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 709
+2023-01-01 16:44:47,346 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 540
+2023-01-01 16:44:47,346 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 552
+2023-01-01 16:44:47,346 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 564
+2023-01-01 16:44:47,346 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7149/1000 @ 717
+2023-01-01 16:44:47,346 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 588
+2023-01-01 16:44:47,346 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 600
+2023-01-01 16:44:47,346 | INFO | ... Traitement de l'image 2.JPG
+2023-01-01 16:44:47,346 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:44:47,346 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:44:47,347 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:44:47,347 | DEBUG |  Segment base 0x2
+2023-01-01 16:44:47,347 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:44:47,347 | DEBUG |   Length: 0x4E 0xC6
+2023-01-01 16:44:47,347 | DEBUG |   Code: b'Exif'
+2023-01-01 16:44:47,347 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:44:47,347 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:44:47,347 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:44:47,347 | DEBUG |  Make: (0x010F) ASCII=asus @ 250
+2023-01-01 16:44:47,347 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:44:47,347 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:44:47,347 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 234
+2023-01-01 16:44:47,347 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 242
+2023-01-01 16:44:47,347 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2023-01-01 16:44:47,347 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 158
+2023-01-01 16:44:47,347 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:41:52 @ 214
+2023-01-01 16:44:47,347 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 114
+2023-01-01 16:44:47,347 | DEBUG |  ExifOffset: (0x8769) Long=256 @ 126
+2023-01-01 16:44:47,347 | DEBUG | GPS SubIFD at offset 760:
+2023-01-01 16:44:47,347 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 41, 52] @ 790
+2023-01-01 16:44:47,347 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 814
+2023-01-01 16:44:47,347 | DEBUG |  GPSInfo: (0x8825) Long=760 @ 138
+2023-01-01 16:44:47,347 | DEBUG | IFD 1 (Thumbnail) at offset 826:
+2023-01-01 16:44:47,347 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 836
+2023-01-01 16:44:47,347 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 848
+2023-01-01 16:44:47,347 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 916
+2023-01-01 16:44:47,347 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 924
+2023-01-01 16:44:47,347 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 884
+2023-01-01 16:44:47,348 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=932 @ 896
+2023-01-01 16:44:47,348 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=19226 @ 908
+2023-01-01 16:44:47,348 | DEBUG | Exif SubIFD at offset 256:
+2023-01-01 16:44:47,348 | DEBUG |  ExposureTime: (0x829A) Ratio=1/116 @ 618
+2023-01-01 16:44:47,348 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 610
+2023-01-01 16:44:47,348 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 290
+2023-01-01 16:44:47,348 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 302
+2023-01-01 16:44:47,348 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 314
+2023-01-01 16:44:47,348 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:41:52 @ 686
+2023-01-01 16:44:47,348 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:41:52 @ 658
+2023-01-01 16:44:47,348 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 350
+2023-01-01 16:44:47,348 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=3429/500 @ 722
+2023-01-01 16:44:47,348 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 714
+2023-01-01 16:44:47,348 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=183/50 @ 706
+2023-01-01 16:44:47,348 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 678
+2023-01-01 16:44:47,348 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 410
+2023-01-01 16:44:47,348 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 422
+2023-01-01 16:44:47,348 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 650
+2023-01-01 16:44:47,348 | DEBUG |  SubSecTime: (0x9290) ASCII=575144 @ 642
+2023-01-01 16:44:47,348 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=575144 @ 634
+2023-01-01 16:44:47,348 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=575144 @ 626
+2023-01-01 16:44:47,348 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 482
+2023-01-01 16:44:47,348 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 494
+2023-01-01 16:44:47,348 | DEBUG |  ExifImageWidth: (0xA002) Long=3120 @ 506
+2023-01-01 16:44:47,348 | DEBUG |  ExifImageLength: (0xA003) Long=4160 @ 518
+2023-01-01 16:44:47,348 | DEBUG | Interoperability SubIFD at offset 730:
+2023-01-01 16:44:47,349 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 740
+2023-01-01 16:44:47,349 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 752
+2023-01-01 16:44:47,349 | DEBUG |  InteroperabilityOffset: (0xA005) Long=730 @ 530
+2023-01-01 16:44:47,349 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 542
+2023-01-01 16:44:47,349 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 554
+2023-01-01 16:44:47,349 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 566
+2023-01-01 16:44:47,349 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 578
+2023-01-01 16:44:47,349 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 590
+2023-01-01 16:44:47,349 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 602
+2023-01-01 16:44:47,349 | INFO | ... Traitement de l'image 3.JPG
+2023-01-01 16:44:47,349 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:44:47,349 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:44:47,349 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:44:47,349 | DEBUG |  Segment base 0x2
+2023-01-01 16:44:47,349 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:44:47,349 | DEBUG |   Length: 0x48 0x10
+2023-01-01 16:44:47,349 | DEBUG |   Code: b'Exif'
+2023-01-01 16:44:47,349 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:44:47,349 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:44:47,349 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:44:47,349 | DEBUG |  Make: (0x010F) ASCII=asus @ 250
+2023-01-01 16:44:47,349 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:44:47,349 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:44:47,349 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 234
+2023-01-01 16:44:47,350 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 242
+2023-01-01 16:44:47,350 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2023-01-01 16:44:47,350 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 158
+2023-01-01 16:44:47,350 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:42:17 @ 214
+2023-01-01 16:44:47,350 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 114
+2023-01-01 16:44:47,350 | DEBUG |  ExifOffset: (0x8769) Long=256 @ 126
+2023-01-01 16:44:47,350 | DEBUG | GPS SubIFD at offset 760:
+2023-01-01 16:44:47,350 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 42, 17] @ 790
+2023-01-01 16:44:47,350 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 814
+2023-01-01 16:44:47,350 | DEBUG |  GPSInfo: (0x8825) Long=760 @ 138
+2023-01-01 16:44:47,350 | DEBUG | IFD 1 (Thumbnail) at offset 826:
+2023-01-01 16:44:47,350 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 836
+2023-01-01 16:44:47,350 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 848
+2023-01-01 16:44:47,350 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 916
+2023-01-01 16:44:47,350 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 924
+2023-01-01 16:44:47,350 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 884
+2023-01-01 16:44:47,350 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=932 @ 896
+2023-01-01 16:44:47,350 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=17508 @ 908
+2023-01-01 16:44:47,350 | DEBUG | Exif SubIFD at offset 256:
+2023-01-01 16:44:47,350 | DEBUG |  ExposureTime: (0x829A) Ratio=1/113 @ 618
+2023-01-01 16:44:47,350 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 610
+2023-01-01 16:44:47,350 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 290
+2023-01-01 16:44:47,350 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 302
+2023-01-01 16:44:47,350 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 314
+2023-01-01 16:44:47,350 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:42:17 @ 686
+2023-01-01 16:44:47,350 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:42:17 @ 658
+2023-01-01 16:44:47,350 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 350
+2023-01-01 16:44:47,351 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=1363/200 @ 722
+2023-01-01 16:44:47,351 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 714
+2023-01-01 16:44:47,351 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=181/50 @ 706
+2023-01-01 16:44:47,351 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 678
+2023-01-01 16:44:47,351 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 410
+2023-01-01 16:44:47,351 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 422
+2023-01-01 16:44:47,351 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 650
+2023-01-01 16:44:47,351 | DEBUG |  SubSecTime: (0x9290) ASCII=401334 @ 642
+2023-01-01 16:44:47,351 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=401334 @ 634
+2023-01-01 16:44:47,351 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=401334 @ 626
+2023-01-01 16:44:47,351 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 482
+2023-01-01 16:44:47,351 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 494
+2023-01-01 16:44:47,351 | DEBUG |  ExifImageWidth: (0xA002) Long=3120 @ 506
+2023-01-01 16:44:47,351 | DEBUG |  ExifImageLength: (0xA003) Long=4160 @ 518
+2023-01-01 16:44:47,351 | DEBUG | Interoperability SubIFD at offset 730:
+2023-01-01 16:44:47,351 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 740
+2023-01-01 16:44:47,351 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 752
+2023-01-01 16:44:47,351 | DEBUG |  InteroperabilityOffset: (0xA005) Long=730 @ 530
+2023-01-01 16:44:47,351 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 542
+2023-01-01 16:44:47,351 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 554
+2023-01-01 16:44:47,351 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 566
+2023-01-01 16:44:47,351 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 578
+2023-01-01 16:44:47,351 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 590
+2023-01-01 16:44:47,351 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 602
+2023-01-01 16:44:47,351 | INFO | ... Traitement de l'image 4.JPG
+2023-01-01 16:44:47,351 | INFO | ... Cherche orientation dans métadata
+2023-01-01 16:44:47,352 | DEBUG | JPEG format recognized data[0:2]=0xFFD8
+2023-01-01 16:44:47,352 | DEBUG | data[2]=0xFF data[3]=0xE1 data[6:10]=b'Exif'
+2023-01-01 16:44:47,352 | DEBUG |  Segment base 0x2
+2023-01-01 16:44:47,352 | DEBUG |   APP1 at base 0x2
+2023-01-01 16:44:47,352 | DEBUG |   Length: 0x4A 0x59
+2023-01-01 16:44:47,352 | DEBUG |   Code: b'Exif'
+2023-01-01 16:44:47,352 | DEBUG |   Decrement base by 2 to get to pre-segment header (for compatibility with later code)
+2023-01-01 16:44:47,352 | DEBUG | Endian format is M (Motorola)
+2023-01-01 16:44:47,352 | DEBUG | IFD 0 (Image) at offset 8:
+2023-01-01 16:44:47,352 | DEBUG |  Make: (0x010F) ASCII=asus @ 250
+2023-01-01 16:44:47,352 | DEBUG |  Model: (0x0110) ASCII=ASUS_X01AD @ 146
+2023-01-01 16:44:47,352 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 42
+2023-01-01 16:44:47,352 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 234
+2023-01-01 16:44:47,352 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 242
+2023-01-01 16:44:47,352 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2023-01-01 16:44:47,352 | DEBUG |  Software: (0x0131) ASCII=msm8953_64-user 9 WW_Phone-202011271133 78 release-keys @ 158
+2023-01-01 16:44:47,352 | DEBUG |  DateTime: (0x0132) ASCII=2022:07:16 17:43:12 @ 214
+2023-01-01 16:44:47,352 | DEBUG |  YCbCrPositioning: (0x0213) Short=Centered @ 114
+2023-01-01 16:44:47,352 | DEBUG |  ExifOffset: (0x8769) Long=256 @ 126
+2023-01-01 16:44:47,352 | DEBUG | GPS SubIFD at offset 760:
+2023-01-01 16:44:47,352 | DEBUG |  GPSTimeStamp: (0x0007) Ratio=[15, 43, 11] @ 790
+2023-01-01 16:44:47,352 | DEBUG |  GPSDate: (0x001D) ASCII=2022:07:16 @ 814
+2023-01-01 16:44:47,352 | DEBUG |  GPSInfo: (0x8825) Long=760 @ 138
+2023-01-01 16:44:47,352 | DEBUG | IFD 1 (Thumbnail) at offset 826:
+2023-01-01 16:44:47,352 | DEBUG |  Compression: (0x0103) Short=JPEG (old-style) @ 836
+2023-01-01 16:44:47,352 | DEBUG |  Orientation: (0x0112) Short=Horizontal (normal) @ 848
+2023-01-01 16:44:47,352 | DEBUG |  XResolution: (0x011A) Ratio=72 @ 916
+2023-01-01 16:44:47,352 | DEBUG |  YResolution: (0x011B) Ratio=72 @ 924
+2023-01-01 16:44:47,353 | DEBUG |  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 884
+2023-01-01 16:44:47,353 | DEBUG |  JPEGInterchangeFormat: (0x0201) Long=932 @ 896
+2023-01-01 16:44:47,353 | DEBUG |  JPEGInterchangeFormatLength: (0x0202) Long=18093 @ 908
+2023-01-01 16:44:47,353 | DEBUG | Exif SubIFD at offset 256:
+2023-01-01 16:44:47,353 | DEBUG |  ExposureTime: (0x829A) Ratio=1/138 @ 618
+2023-01-01 16:44:47,353 | DEBUG |  FNumber: (0x829D) Ratio=9/5 @ 610
+2023-01-01 16:44:47,353 | DEBUG |  ExposureProgram: (0x8822) Short=Unidentified @ 290
+2023-01-01 16:44:47,353 | DEBUG |  ISOSpeedRatings: (0x8827) Short=100 @ 302
+2023-01-01 16:44:47,353 | DEBUG |  ExifVersion: (0x9000) Undefined=0220 @ 314
+2023-01-01 16:44:47,353 | DEBUG |  DateTimeOriginal: (0x9003) ASCII=2022:07:16 17:43:12 @ 686
+2023-01-01 16:44:47,353 | DEBUG |  DateTimeDigitized: (0x9004) ASCII=2022:07:16 17:43:12 @ 658
+2023-01-01 16:44:47,353 | DEBUG |  ComponentsConfiguration: (0x9101) Undefined=YCbCr @ 350
+2023-01-01 16:44:47,353 | DEBUG |  ShutterSpeedValue: (0x9201) Signed Ratio=7107/1000 @ 722
+2023-01-01 16:44:47,353 | DEBUG |  ApertureValue: (0x9202) Ratio=169/100 @ 714
+2023-01-01 16:44:47,353 | DEBUG |  BrightnessValue: (0x9203) Signed Ratio=39/10 @ 706
+2023-01-01 16:44:47,353 | DEBUG |  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 678
+2023-01-01 16:44:47,353 | DEBUG |  MeteringMode: (0x9207) Short=CenterWeightedAverage @ 410
+2023-01-01 16:44:47,353 | DEBUG |  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 422
+2023-01-01 16:44:47,353 | DEBUG |  FocalLength: (0x920A) Ratio=18/5 @ 650
+2023-01-01 16:44:47,353 | DEBUG |  SubSecTime: (0x9290) ASCII=039609 @ 642
+2023-01-01 16:44:47,353 | DEBUG |  SubSecTimeOriginal: (0x9291) ASCII=039609 @ 634
+2023-01-01 16:44:47,353 | DEBUG |  SubSecTimeDigitized: (0x9292) ASCII=039609 @ 626
+2023-01-01 16:44:47,353 | DEBUG |  FlashPixVersion: (0xA000) Undefined=0100 @ 482
+2023-01-01 16:44:47,353 | DEBUG |  ColorSpace: (0xA001) Short=sRGB @ 494
+2023-01-01 16:44:47,353 | DEBUG |  ExifImageWidth: (0xA002) Long=3120 @ 506
+2023-01-01 16:44:47,353 | DEBUG |  ExifImageLength: (0xA003) Long=4160 @ 518
+2023-01-01 16:44:47,354 | DEBUG | Interoperability SubIFD at offset 730:
+2023-01-01 16:44:47,354 | DEBUG |  InteroperabilityIndex: (0x0001) ASCII=R98 @ 740
+2023-01-01 16:44:47,354 | DEBUG |  InteroperabilityVersion: (0x0002) Undefined=[48, 49, 48, 48] @ 752
+2023-01-01 16:44:47,354 | DEBUG |  InteroperabilityOffset: (0xA005) Long=730 @ 530
+2023-01-01 16:44:47,354 | DEBUG |  SensingMethod: (0xA217) Short=One-chip color area @ 542
+2023-01-01 16:44:47,354 | DEBUG |  SceneType: (0xA301) Undefined=Directly Photographed @ 554
+2023-01-01 16:44:47,354 | DEBUG |  ExposureMode: (0xA402) Short=Auto Exposure @ 566
+2023-01-01 16:44:47,354 | DEBUG |  WhiteBalance: (0xA403) Short=Auto @ 578
+2023-01-01 16:44:47,354 | DEBUG |  FocalLengthIn35mmFilm: (0xA405) Short=4 @ 590
+2023-01-01 16:44:47,354 | DEBUG |  SceneCaptureType: (0xA406) Short=Standard @ 602
+2023-01-01 16:44:47,354 | INFO | ... Préparation script nettoyage posix
+2023-01-01 16:44:47,354 | INFO | ... Fin du main
