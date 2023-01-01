@@ -133,17 +133,19 @@ MYPATH = os.path.dirname(os.path.abspath(__file__))
 # DEST_DIR = os.path.join(MYPATH, 'test')
 # AUTOEXEC = os.path.join(MYPATH, '%s_%s_autoexec.bat' % (MYFNAME, MYVERSION))
 
-search_fname = ['File Name', 'Opening']
-search_date = ['Media Create Date ', 'Create Date', 'Date/Time Original',
-               'EXIF DateTimeOriginal', 'Image DateTime',
-               'EXIF DateTimeDigitized']
-search_ext = ['File Type Extension', 'Opening']
-search_model = ['Camera Model Name', 'Image Model']
-search_dim = ['Image Size']
-SEARCH_ROTATION = ['Image Orientation', 'Orientation']
-
-search_h = ['EXIF ExifImageLength', 'Image ImageLength', 'Exif Image Height']
-search_w = ['EXIF ExifImageWidth', 'Image ImageWidth', 'Exif Image Width']
+# TAGS_ORIENTATION = ['Image Orientation', 'Orientation']
+# TAGS_DATE = [
+#     'Media Create Date ', 'Create Date', 'DateTimeOriginal',
+#     'Date/Time Original', 'EXIF DateTimeOriginal',
+#     'Image DateTime', 'EXIF DateTimeDigitized']
+# TAGS_MODELE = ['Camera Model Name', 'Image Model', 'Model']
+# TAGS_DIM_LENGTH = ['ExifImageLength', 'ImageLength', 'EXIF ExifImageLength', 'Image ImageLength', 'Exif Image Height']
+# TAGS_DIM_WIDTH = ['ExifImageWidth', 'ImageWidth', 'EXIF ExifImageWidth', 'Image ImageWidth', 'Exif Image Width']
+TAGS_ORIENTATION = ['Image Orientation']
+TAGS_DATE = ['Media Create Date ', 'Create Date', 'DateTimeOriginal', 'Image DateTime']
+TAGS_MODELE = ['Camera Model Name', 'Image Model', 'Model']
+TAGS_DIM_LENGTH = ['ImageLength', 'Image ImageLength']
+TAGS_DIM_WIDTH = ['ImageWidth', 'Image ImageWidth']
 
 CLEAN_LIST = [
     ('-WA0', '_WA0'),
@@ -260,25 +262,16 @@ def check_args():
     return checkpath, extension
 
 
-# get_all_exif(fichier, SEARCH_ROTATION)
-def get_all_exif(jpegfn, list_tags_cherches):
+def get_all_exif(jpegfn):
     """Cherche l'orientation d'un fichier dans ses metadata"""
     logging.info("... Cherche orientation dans métadata")
 
     resultat = []
     f = open(jpegfn, 'rb')
-    tags = exifread.process_file(f)
+    exifdata = exifread.process_file(f)
     f.close()
 
-    for tag in list_tags_cherches:
-        if tags[tag]:
-            logging.info('... Tag %s trouvé dans metadata (%s)' % (tag, tags[tag]))
-            resultat.append(tags[tag])
-
-    return anti_doublons(resultat)
-
-# get_exif_date_pil(fichier)
-#
+    return exifdata
 
 
 def get_filelist(root, patterns='*', single_level=False, yield_folders=False):
@@ -300,19 +293,29 @@ def get_filelist(root, patterns='*', single_level=False, yield_folders=False):
             break
 
 
-def method_1(fichier):
-    # global search_rotation
-    try:
-        # newfname = get_exif_date_pil(fichier)
-        newfname = 'pouet'
-        print("pouet")
-    except:
-        newfname = fichier
-    try:
-        orientation = get_all_exif(fichier, SEARCH_ROTATION)
-    except:
-        orientation = 1
-    return newfname, orientation
+def get_info_from_exif(exifdata, list_tags):
+    resultat = []
+    for tag in list_tags:
+        if tag in exifdata.keys():
+            resultat.append(exifdata[tag])
+
+    return resultat
+
+    # def method_1(fichier):
+    # newfname = 'pouet'
+    # orientation = get_all_exif(fichier, SEARCH_ROTATION)
+
+    # return newfname, orientation
+    # try:
+    #     # newfname = get_exif_date_pil(fichier)
+    #     newfname = 'pouet'
+    # except:
+    #     newfname = fichier
+    # try:
+    #     orientation = get_all_exif(fichier, SEARCH_ROTATION)
+    # except:
+    #     orientation = 1
+    # return newfname, orientation
 
 
 def traitement(flist):
@@ -323,8 +326,35 @@ def traitement(flist):
     for f in flist:
         logging.info("... Traitement de l'image %s" % os.path.basename(f))
 
+        # Nom du fichier courant
         oldfname = os.path.basename(f)
-        newfname, orientation = method_1(f)
+
+        # get exifdata
+        exifdata = get_all_exif(f)
+
+        # get orientation
+        orientation = get_info_from_exif(exifdata, TAGS_ORIENTATION)
+
+        # get date
+        date = get_info_from_exif(exifdata, TAGS_DATE)
+
+        # get model
+        modele = get_info_from_exif(exifdata, TAGS_MODELE)
+
+        # get LxH
+        dim_length = get_info_from_exif(exifdata, TAGS_DIM_LENGTH)
+        dim_width = get_info_from_exif(exifdata, TAGS_DIM_WIDTH)
+
+        oldfname = os.path.basename(f)
+        print("-----------------------------------------------")
+        print('file        : %s' % oldfname)
+        print("orientation : %s" % orientation)
+        print("date        : %s" % date)
+        print("modele      : %s" % modele)
+        print("dim. length : %s" % dim_length)
+        print("dim. width  : %s" % dim_width)
+        # print(exifdata)
+
 
 #######################
 # M A I N             #
